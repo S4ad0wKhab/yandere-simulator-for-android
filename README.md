@@ -1,7 +1,7 @@
 # Yandere Simulator For Android
 Yandere Simulator is a stealth game about stalking a boy and secretly eliminating any girl who has a crush on him, while maintaining the image of an innocent schoolgirl.
 
-<img src="assets/school.png" alt="รูปภาพ" width="500">
+<img src="Assets/school.png" alt="รูปภาพ" width="500">
 - YandereDev
 
 # How did I do it?
