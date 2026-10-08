@@ -5,7 +5,7 @@ Yandere Simulator เป็นเกมแนวลอบเร้นที่�
 # วิธีดาวน์โหลด
 ดาวน์โหลดได้ใน [releases](https://github.com/S4ad0wKhab/yandere-simulator-for-android/releases) เลื่อนลงและหาข้อความสีน้ำงิน:
 
-* ys_2025-arm64-v8a.apk <== เกมหลัก
+* ys_2025.apk <== เกมหลัก
 * pose_mod.apk <== Yandere Simulator เวอร์ชั่น Pose Mod (เร็วๆนี้)
 # เครดิต
 YandereDev - เกมต้นฉบับ
