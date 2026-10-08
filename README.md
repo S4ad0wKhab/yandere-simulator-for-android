@@ -10,7 +10,7 @@ I use [**AssetStudio 2.4.0+ (2025 Update)**](https://github.com/Razviar/assetstu
 # How to download
 Available for download in the [**"Releases"**](https://github.com/S4ad0wKhab/yandere-simulator-for-android/releases) section; scroll down and look for the blue text:
 
-* ys_2025-arm64-v8a.apk <== Main game
+* ys_2025.apk <== Main game
 * pose_mod.apk <== Yandere Simulator Pose Mod version (coming soon)
 # Credit
 YandereDev - Original Game
