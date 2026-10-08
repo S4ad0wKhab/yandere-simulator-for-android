@@ -8,7 +8,10 @@ Yandere Simulator is a stealth game about stalking a boy and secretly eliminatin
 # How did I do it?
 I use [**AssetStudio 2.4.0+ (2025 Update)**](https://github.com/Razviar/assetstudio.git) to extract game assets, [**ILSpy**](https://github.com/icsharpcode/ILSpy.git) to decompile .dll files (the game's C# code), and Unity 2019 to modify and rebuild the game for Android compatibility.
 # How to download
-...
+Available for download in the [**"Releases"**](https://github.com/S4ad0wKhab/yandere-simulator-for-android/releases) section; scroll down and look for the blue text:
+
+* ys_2025-arm64-v8a.apk <== Main game
+* pose_mod.apk <== Yandere Simulator Pose Mod version (coming soon)
 # Credit
 YandereDev - Original Game
 
